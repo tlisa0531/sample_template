@@ -1,4 +1,6 @@
 # sample.x-Template
+<img width="781" alt="Screenshot 2023-01-24 at 12 48 20 PM" src="https://user-images.githubusercontent.com/28975372/214409011-5c55f7b4-ec2b-4724-8260-11f761c82a97.png">
+
 
 ### Prerequisites 
 1. Register an account at [Lyrid Web Application] (https://app.beta.lyrid.io/) 
