@@ -1,5 +1,5 @@
 ## SAMPLE TEMPLATE
-[!hi](/logo.png)
+![hi](/logo.png)
 
 ## Prerequisites 
 1. Register an account at [Lyrid Web Application](https://app.beta.lyrid.io/) 
