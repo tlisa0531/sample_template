@@ -10,10 +10,10 @@
 
 ### Run locally
 Test your application by building and running it with the following command:
-'''
+```
 go get 
 go run ./main.go
-'''
+```
 
 Your application will be served in http://localhost:8000
 
