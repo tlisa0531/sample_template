@@ -1,7 +1,7 @@
 # sample.x-Template
 <img width="781" alt="Screenshot 2023-01-24 at 12 48 20 PM" src="https://user-images.githubusercontent.com/28975372/214409011-5c55f7b4-ec2b-4724-8260-11f761c82a97.png">
 <img width ='700' alt ='logo' =src'https://ibb.co/2ykNqY1'>
-
+<img width ='800' alt = 'logo2' = src='https://github.com/tlisa0531/sample_template/blob/main/Screenshot%202023-01-24%20at%2012.48.20%20PM.png'>
 
 ### Prerequisites 
 1. Register an account at [Lyrid Web Application] (https://app.beta.lyrid.io/) 
