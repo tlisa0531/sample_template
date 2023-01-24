@@ -1,5 +1,6 @@
 ## SAMPLE TEMPLATE
 ![hi](/logo.png)
+This template is for _language_ suitable for uploading to the Lyrid Platform.
 
 ## Prerequisites 
 1. Register an account at [Lyrid Web Application](https://app.beta.lyrid.io/) 
