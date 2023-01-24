@@ -1,5 +1,5 @@
 ## SAMPLE TEMPLATE
-/assets/logo.png
+[](/assets/logo.png)
 
 ## Prerequisites 
 1. Register an account at [Lyrid Web Application](https://app.beta.lyrid.io/) 
@@ -44,8 +44,8 @@ Have any questions? We are here to help!
 Email us at support@lyrid.io  
 
 ### Find us on social medias
-[Discord](https://discord.com/invite/xtCCtc9WAX)
-[LinkedIn](https://www.linkedin.com/company/lyrid/?viewAsMember=true)
-[Twitter](https://twitter.com/LyridInc)
-[Facebook](https://www.facebook.com/lyridinc)
+- [Discord](https://discord.com/invite/xtCCtc9WAX)
+- [LinkedIn](https://www.linkedin.com/company/lyrid/?viewAsMember=true)
+- [Twitter](https://twitter.com/LyridInc)
+- [Facebook](https://www.facebook.com/lyridinc)
 
