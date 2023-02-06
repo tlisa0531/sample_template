@@ -34,7 +34,7 @@ entry
 ### Start Coding!
 Users can edit route url, settings, and views with custom APIs. 
 
-## Submit to Lyrid 
+### Submit to Lyrid 
 Use our command line tool to easily upload your application to the cloud.
 ```
 lc code submit
